@@ -12,25 +12,26 @@ Any files related to those projects are not contained in this repo, but can inst
 7. [Low Level HW Digital Systems I - 7th Semester](#low-level-hw-digital-systems-i)
 
 ## Structured Programming
-
+[**Project's Repository**](https://github.com/Selivanof/StructuredProgramming)
 #### Description
 
 ## Object-Oriented Programming
+[**Project's Repository**](https://github.com/Selivanof/ProbAndStatistics)
 
 #### Description
 
 ## Probabilities and Statistics
-
+[**Project's Repository**](https://github.com/Selivanof/ProbAndStatistics)
 #### Description
 
 ## Computer Networks I
-
+[**Project's Repository**](https://github.com/Selivanof/ComputerNetworksI)
 #### Description
 
 ## Operating Systems
-
+[**Project's Repository**](https://github.com/Selivanof/OperatingSystems)
 #### Description
 
 ## Low Level HW Digital Systems I
-
+[**Project's Repository**](https://github.com/Selivanof/LowLevelHardwareI)
 #### Description

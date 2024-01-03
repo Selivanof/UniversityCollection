@@ -76,7 +76,7 @@ A "virtual modem" written in Java that can send and receive data to/from the pro
 
 ### Operating Systems
 
-A collection of numerous assignments meant to familiarize us with the Linux Operating System and various OS functions.
+A collection of numerous assignments aiming to familiarize us with the Linux Operating System and various OS functions.
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|

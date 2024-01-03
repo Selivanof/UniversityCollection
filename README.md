@@ -69,7 +69,7 @@ A "virtual modem" written in Java that can send and receive data to/from the pro
 | Repository               | [**Computer Networks I**](https://github.com/Selivanof/ComputerNetworks1)            |
 | Project Type             | Optional                                                                             |
 | Project Grading          | N/A                                                                                  |
-| Scientific Area          | Software Development/Computer Networking                                             |
+| Scientific Areas         | Software Development/Computer Networking                                             |
 | Programming Language     | Java                                                                                 |
 
 ## Year 4 (2023-2024)
@@ -83,8 +83,8 @@ A collection of numerous assignments meant to familiarize us with the Linux Oper
 | Repository               | [**Operating Systems**](https://github.com/Selivanof/OperatingSystems)               |
 | Project Type             | Optional                                                                             |
 | Project Grading          | Boosting Percentage (50%)                                                            |
-| Scientific Area          | Software Development/Operating Systems                                               |
-| Languages Used           | C, Shell Script                                                                      |
+| Scientific Areas         | Software Development/Operating Systems                                               |
+| Languages Used           | C, Shell Script (Bash, Fish)                                                         |
 
 ### Low Level HW Digital Systems I
 
@@ -95,7 +95,7 @@ Designing a simple RISC-V processor using Verilog
 | Repository               | [**Low Level HW Digital Systems I**](https://github.com/Selivanof/LowLevelHardware1) |
 | Project Type             | Optional                                                                             |
 | Project Grading          | Raw Percentage (30%)                                                                 |
-| Scientific Area          | Computer Engineering/HDL Development                                                 |
+| Scientific Areas         | Computer Engineering/HDL Development                                                 |
 | HDL Language             | Verilog                                                                              |
 | Software Used            | Intel Quartus/Questa                                                                 |
 
@@ -103,6 +103,7 @@ Designing a simple RISC-V processor using Verilog
 ## Year 5 (2024-2025)
 
 Hello from the future
+
 
 ---
 ### Grading Types Explained

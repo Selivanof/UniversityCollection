@@ -62,7 +62,7 @@ A statistical analysis of data related to COVID-19 cases and deaths in different
 
 #### Computer Networks I
 
-A "virtual modem" written in Java that can send and receive data to/from the professors "Ithaki" server using serial communication.
+A "virtual modem" written in Java that can send and receive data to/from the professor's "Ithaki" server using serial communication.
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|

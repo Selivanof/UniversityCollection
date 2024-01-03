@@ -11,27 +11,98 @@ Any files related to those projects are not contained in this repo, but can inst
 6. [Operating Systems - 7th Semester](#operating-systems)
 7. [Low Level HW Digital Systems I - 7th Semester](#low-level-hw-digital-systems-i)
 
-## Structured Programming
-[**Project's Repository**](https://github.com/Selivanof/StructuredProgramming)
-#### Description
+## Year 1 (2020-2021)
 
-## Object-Oriented Programming
-[**Project's Repository**](https://github.com/Selivanof/ProbAndStatistics)
+### Structured Programming
 
-#### Description
+A simple "sailing" game written entirely in C. It is a local multiplayer game for up to 4 players, that uses the Windows CMD to display all the elements to the user.
 
-## Probabilities and Statistics
-[**Project's Repository**](https://github.com/Selivanof/ProbAndStatistics)
-#### Description
+|   Project Information    |                                                                                  |
+|--------------------------|----------------------------------------------------------------------------------|
+| Repository               | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming) |
+| Project Type             | Optional                                                                         |
+| Project Grading          | Additive (+1.0)                                                                  |
+| Scientific Area          | Software Development                                                             |
+| Programming Language     | C                                                                                |
 
-## Computer Networks I
-[**Project's Repository**](https://github.com/Selivanof/ComputerNetworks1)
-#### Description
 
-## Operating Systems
-[**Project's Repository**](https://github.com/Selivanof/OperatingSystems)
-#### Description
+### Object-Oriented Programming
 
-## Low Level HW Digital Systems I
-[**Project's Repository**](https://github.com/Selivanof/LowLevelHardware1)
-#### Description
+A simple battleship game written entirely in C++. It includes a fully functional battleship game and a simple "SmartPlayer" that can play the game based on predefined strategies and tactics.
+
+|   Project Information    |                                                                                           |
+|--------------------------|-------------------------------------------------------------------------------------------|
+| Repository               | [**Object-Oriented Programming**](https://github.com/Selivanof/ObjectOrientedProgramming) |
+| Project Type             | Optional                                                                                  |
+| Project Grading          | Additive (+1.5)                                                                           |
+| Scientific Area          | Software Development                                                                      |
+| Programming Language     | C++                                                                                       |
+
+
+
+## Year 2 (2021-2022)
+
+### Probabilities and Statistics
+
+A statistical analysis of data related to COVID-19 cases and deaths in different EU countries.
+
+|   Project Information    |                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------|
+| Repository               | [**Probabilities and Statistics**](https://github.com/Selivanof/ProbAndStatistics)   |
+| Project Type             | Optional                                                                             |
+| Project Grading          | Raw Percentage (10%)                                                                 |
+| Scientific Area          | Stastics                                                                             |
+| Software Used            | SPSS                                                                                 |
+
+## Year 3 (2022-2023)
+
+#### Computer Networks I
+
+A "virtual modem" written in Java that can send and receive data to/from the professors "Ithaki" server using serial communication.
+
+|   Project Information    |                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------|
+| Repository               | [**Computer Networks I**](https://github.com/Selivanof/ComputerNetworks1)            |
+| Project Type             | Optional                                                                             |
+| Project Grading          | N/A                                                                                  |
+| Scientific Area          | Software Development/Computer Networking                                             |
+| Programming Language     | Java                                                                                 |
+
+## Year 4 (2023-2024)
+
+### Operating Systems
+
+A collection of numerous assignments meant to familiarize us with the Linux Operating System and various OS functions.
+
+|   Project Information    |                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------|
+| Repository               | [**Operating Systems**](https://github.com/Selivanof/OperatingSystems)               |
+| Project Type             | Optional                                                                             |
+| Project Grading          | Boosting Percentage (50%)                                                            |
+| Scientific Area          | Software Development/Operating Systems                                               |
+| Languages Used           | C, Shell Script                                                                      |
+
+### Low Level HW Digital Systems I
+
+Designing a simple RISC-V processor using Verilog
+
+|   Project Information    |                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------|
+| Repository               | [**Low Level HW Digital Systems I**](https://github.com/Selivanof/LowLevelHardware1) |
+| Project Type             | Optional                                                                             |
+| Project Grading          | Raw Percentage (30%)                                                                 |
+| Scientific Area          | Computer Engineering/HDL Development                                                 |
+| HDL Language             | Verilog                                                                              |
+| Software Used            | Intel Quartus/Questa                                                                 |
+
+
+## Year 5 (2024-2025)
+
+Hello from the future
+
+---
+### Grading Types Explained
+- **Additive:** The project's grade is simply added to the exam's final grade. Any increase beyond the exam's maximum possible grade is ignored.
+- **Raw Percentage:** The final grade is calculated by the formula `Project * XX% + Exam * (100 - XX)%`, where both Project and Exam grades are on a scale /10. 
+- **Boosting Percentage:** Same as Raw Percentage, but the Project's grade contributes to the final grade ONLY if only if it improves the final grade. Otherwise, XX% = 0% and the final grade is the same as the Exam's grade. 
+

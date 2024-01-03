@@ -68,7 +68,7 @@ A "virtual modem" written in Java that can send and receive data to/from the pro
 |--------------------------|--------------------------------------------------------------------------------------|
 | Repository               | [**Computer Networks I**](https://github.com/Selivanof/ComputerNetworks1)            |
 | Project Type             | Optional                                                                             |
-| Project Grading          | N/A                                                                                  |
+| Project Grading          | Non Graded                                                                           |
 | Scientific Areas         | Software Development/Computer Networking                                             |
 | Programming Language     | Java                                                                                 |
 

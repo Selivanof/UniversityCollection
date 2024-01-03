@@ -1,3 +1,7 @@
+```diff
+! This is a work in progress. Many links referenced in this repository might not yet exist, or they may be incomplete. !
+```
+
 # Collection of University Projects/Assignments
 This repository is a collection of projects and assignments that I completed during my undergraduate studies at the school of Electrical and Computer Engineering of Aristotle University of Thessaloniki. 
 

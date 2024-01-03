@@ -25,7 +25,7 @@ Any files related to those projects are not contained in this repo, but can inst
 #### Description
 
 ## Computer Networks I
-[**Project's Repository**](https://github.com/Selivanof/ComputerNetworksI)
+[**Project's Repository**](https://github.com/Selivanof/ComputerNetworks1)
 #### Description
 
 ## Operating Systems
@@ -33,5 +33,5 @@ Any files related to those projects are not contained in this repo, but can inst
 #### Description
 
 ## Low Level HW Digital Systems I
-[**Project's Repository**](https://github.com/Selivanof/LowLevelHardwareI)
+[**Project's Repository**](https://github.com/Selivanof/LowLevelHardware1)
 #### Description

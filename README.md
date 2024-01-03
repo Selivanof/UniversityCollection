@@ -54,7 +54,7 @@ A statistical analysis of data related to COVID-19 cases and deaths in different
 |--------------------------|--------------------------------------------------------------------------------------|
 | Repository               | [**Probabilities and Statistics**](https://github.com/Selivanof/ProbAndStatistics)   |
 | Project Type             | Optional                                                                             |
-| Project Grading          | Raw Percentage (10%)                                                                 |
+| Project Grading          | Fixed Percentage (10%)                                                               |
 | Scientific Area          | Stastics                                                                             |
 | Software Used            | SPSS                                                                                 |
 
@@ -94,7 +94,7 @@ Designing a simple RISC-V processor using Verilog
 |--------------------------|--------------------------------------------------------------------------------------|
 | Repository               | [**Low Level HW Digital Systems I**](https://github.com/Selivanof/LowLevelHardware1) |
 | Project Type             | Optional                                                                             |
-| Project Grading          | Raw Percentage (30%)                                                                 |
+| Project Grading          | Fixed Percentage (30%)                                                               |
 | Scientific Areas         | Computer Engineering/HDL Development                                                 |
 | HDL Language             | Verilog                                                                              |
 | Software Used            | Intel Quartus/Questa                                                                 |
@@ -106,8 +106,14 @@ Hello from the future
 
 
 ---
-### Grading Types Explained
-- **Additive:** The project's grade is simply added to the exam's final grade. Any increase beyond the exam's maximum possible grade is ignored.
-- **Raw Percentage:** The final grade is calculated by the formula `Project * XX% + Exam * (100 - XX)%`, where both Project and Exam grades are on a scale /10. 
-- **Boosting Percentage:** Same as Raw Percentage, but the Project's grade contributes to the final grade ONLY if only if it improves the final grade. Otherwise, XX% = 0% and the final grade is the same as the Exam's grade. 
+### Project Grading (and Types) Explained
+- **Additive**
+  - The project's grade is simply added to the exam's final grade. Any increase beyond the exam's maximum possible grade is ignored.
+  - Such projects are always optional with no penalty for not turning them in.
+- **Fixed Percentage**
+  - The final grade is calculated by the formula `Project * XX% + Exam * (100 - XX)%`, where both Project and Exam grades are on a scale /10.
+  - If the project is optional, not turning it in is equivalent to a project graded as 0. If the project is mandatory, a minimum grade (usually 5/10) must be achieved.
+- **Boosting Percentage**
+  - Same as Raw Percentage, but the Project's grade contributes to the final grade ONLY if only if it improves the final grade. Otherwise, XX% = 0% and the final grade is the same as the Exam's grade.
+  - Such projects are always optional with no penalty for not turning them in.
 

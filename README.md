@@ -14,8 +14,8 @@ This repository is a collection of projects and assignments that I completed dur
 6. [Operating Systems - 7th Semester](#operating-systems)
 7. [Low Level HW Digital Systems I - 7th Semester](#low-level-hw-digital-systems-i)
 8. [Low Level HW Digital Systems II - 8th Semester](#low-level-hw-digital-systems-ii)
-9. [Microprocessors and Peripherals](#microprocessors-and-peripherals)
-10. [Real-Time Embedded Systems](#real-time-embedded-systems)
+9. [Microprocessors and Peripherals - 8th Semester](#microprocessors-and-peripherals)
+10. [Real-Time Embedded Systems - 8th Semester](#real-time-embedded-systems)
 
 ## Year 1 (2020-2021)
 

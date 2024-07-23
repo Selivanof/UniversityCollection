@@ -5,7 +5,6 @@
 # Collection of University Projects/Assignments
 This repository is a collection of projects and assignments that I completed during my undergraduate studies at the School of Electrical and Computer Engineering at Aristotle University of Thessaloniki. 
 
-Any files related to those projects are not contained in this repo, but can instead be found in each course's separate repository. Links to those repos are included in this file.
 
 ## Table of Contents
 1. [Structured Programming - 1st Semester](#structured-programming)
@@ -14,6 +13,9 @@ Any files related to those projects are not contained in this repo, but can inst
 5. [Computer Networks I - 6th Semester](#computer-networks-i)
 6. [Operating Systems - 7th Semester](#operating-systems)
 7. [Low Level HW Digital Systems I - 7th Semester](#low-level-hw-digital-systems-i)
+8. [Low Level HW Digital Systems II - 8th Semester](#low-level-hw-digital-systems-ii)
+9. [Microprocessors and Peripherals](#microprocessors-and-peripherals)
+10. [Real-Time Embedded Systems](#real-time-embedded-systems)
 
 ## Year 1 (2020-2021)
 
@@ -23,22 +25,18 @@ A simple "sailing" game written entirely in C. It is a local multiplayer game fo
 
 |   Project Information    |                                                                                  |
 |--------------------------|----------------------------------------------------------------------------------|
-| Repository               | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming) |
-| Project Type             | Optional                                                                         |
-| Project Grading          | Additive (+1.0)                                                                  |
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming) |
 | Scientific Area          | Software Development                                                             |
 | Programming Language     | C                                                                                |
 
 
-### Object-Oriented Programming
+### Object-Oriented Programming 
 
 A simple battleship game written entirely in C++. It includes a fully functional battleship game and a simple "SmartPlayer" that can play the game based on predefined strategies and tactics.
 
 |   Project Information    |                                                                                           |
 |--------------------------|-------------------------------------------------------------------------------------------|
-| Repository               | [**Object-Oriented Programming**](https://github.com/Selivanof/ObjectOrientedProgramming) |
-| Project Type             | Optional                                                                                  |
-| Project Grading          | Additive (+1.5)                                                                           |
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)          |
 | Scientific Area          | Software Development                                                                      |
 | Programming Language     | C++                                                                                       |
 
@@ -52,9 +50,7 @@ A statistical analysis of data related to COVID-19 cases and deaths in different
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Repository               | [**Probabilities and Statistics**](https://github.com/Selivanof/ProbAndStatistics)   |
-| Project Type             | Optional                                                                             |
-| Project Grading          | Fixed Percentage (10%)                                                               |
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
 | Scientific Area          | Stastics                                                                             |
 | Software Used            | SPSS                                                                                 |
 
@@ -66,9 +62,7 @@ A "virtual modem" written in Java that can send and receive data to/from the pro
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Repository               | [**Computer Networks I**](https://github.com/Selivanof/ComputerNetworks1)            |
-| Project Type             | Optional                                                                             |
-| Project Grading          | Non Graded                                                                           |
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
 | Scientific Areas         | Software Development/Computer Networking                                             |
 | Programming Language     | Java                                                                                 |
 
@@ -80,40 +74,55 @@ A collection of numerous assignments aiming to familiarize us with the Linux Ope
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Repository               | [**Operating Systems**](https://github.com/Selivanof/OperatingSystems)               |
-| Project Type             | Optional                                                                             |
-| Project Grading          | Boosting Percentage (50%)                                                            |
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
 | Scientific Areas         | Software Development/Operating Systems                                               |
 | Languages Used           | C, Shell Script (Bash, Fish)                                                         |
 
 ### Low Level HW Digital Systems I
 
-Designing a simple RISC-V processor using Verilog
+Aa simple RISC-V processor using Verilog
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Repository               | [**Low Level HW Digital Systems I**](https://github.com/Selivanof/LowLevelHardware1) |
-| Project Type             | Optional                                                                             |
-| Project Grading          | Fixed Percentage (30%)                                                               |
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
 | Scientific Areas         | Computer Engineering/HDL Development                                                 |
 | HDL Language             | Verilog                                                                              |
 | Software Used            | Intel Quartus/Questa                                                                 |
+
+### Low Level HW Digital Systems II
+
+An IEEE 754 floating point multiplier using System Verilog and performing basic verification using SVA.
+
+|   Project Information    |                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------|
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Scientific Areas         | Computer Engineering/HDL Development                                                 |
+| HDL Language             | System Verilog                                                                       |
+| Software Used            | Intel Quartus/Questa                                                                 |
+
+### Microprocessors and Peripherals
+
+Various ARM Assembly and C assignments on a Nucleo F411RE board.  
+
+|   Project Information    |                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------|
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Scientific Areas         | Embedded Development                                                                 |
+| Programming Language     | ARM Assembly, C                                                                      |
+
+### Real-Time Embedded Systems
+
+A lightweight real-time stock price tracking and processing program
+
+|   Project Information    |                                                                                      |
+|--------------------------|--------------------------------------------------------------------------------------|
+| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Scientific Areas         | Software Development / Embedded Development                                          |
+| Programming Language     | C                                                                                    |
 
 
 ## Year 5 (2024-2025)
 
 Hello from the future
 
-
----
-### Project Grading (and Types) Explained
-- **Additive**
-  - The project's grade is simply added to the exam's final grade. Any increase beyond the exam's maximum possible grade is ignored.
-  - Such projects are always optional with no penalty for not turning them in.
-- **Fixed Percentage**
-  - The final grade is calculated by the formula `Project * XX% + Exam * (100 - XX)%`, where both Project and Exam grades are on a scale /10.
-  - If the project is optional, not turning it in is equivalent to a project graded as 0. If the project is mandatory, a minimum grade (usually 5/10) must be achieved.
-- **Boosting Percentage**
-  - Same as Raw Percentage, but the Project's grade contributes to the final grade ONLY if only if it improves the final grade. Otherwise, XX% = 0% and the final grade is the same as the Exam's grade.
-  - Such projects are always optional with no penalty for not turning them in.
 

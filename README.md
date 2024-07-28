@@ -9,7 +9,6 @@ This repository is a collection of projects and assignments that I completed dur
 ## Table of Contents
 1. [Structured Programming - 1st Semester](#structured-programming)
 2. [Object-Oriented Programming - 2nd Semester](#object-oriented-programming)
-3. [Probabilities and Statistics - 4th Semester](#probabilities-and-statistics)
 5. [Computer Networks I - 6th Semester](#computer-networks-i)
 6. [Operating Systems - 7th Semester](#operating-systems)
 7. [Low Level HW Digital Systems I - 7th Semester](#low-level-hw-digital-systems-i)
@@ -25,34 +24,20 @@ A simple "sailing" game written entirely in C. It is a local multiplayer game fo
 
 |   Project Information    |                                                                                  |
 |--------------------------|----------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming) |
+| Project Files            | [**Structured Programming**](./Structured_Programming/) |
 | Scientific Area          | Software Development                                                             |
 | Programming Language     | C                                                                                |
 
 
 ### Object-Oriented Programming 
 
-A simple battleship game written entirely in C++. It includes a fully functional battleship game and a simple "SmartPlayer" that can play the game based on predefined strategies and tactics.
+A simple battleship game written entirely in C++.
 
 |   Project Information    |                                                                                           |
 |--------------------------|-------------------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)          |
+| Project Files            | [**Object-Oriented Programming**](./Object_Oriented_Programming/)          |
 | Scientific Area          | Software Development                                                                      |
 | Programming Language     | C++                                                                                       |
-
-
-
-## Year 2 (2021-2022)
-
-### Probabilities and Statistics
-
-A statistical analysis of data related to COVID-19 cases and deaths in different EU countries.
-
-|   Project Information    |                                                                                      |
-|--------------------------|--------------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
-| Scientific Area          | Stastics                                                                             |
-| Software Used            | SPSS                                                                                 |
 
 ## Year 3 (2022-2023)
 
@@ -62,7 +47,7 @@ A "virtual modem" written in Java that can send and receive data to/from the pro
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Project Files            | [**Computer Networks I**](./Computer_Networks_1/)     |
 | Scientific Areas         | Software Development/Computer Networking                                             |
 | Programming Language     | Java                                                                                 |
 
@@ -74,9 +59,10 @@ A collection of numerous assignments aiming to familiarize us with the Linux Ope
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Project Files            | [**Operating Systems**](./Operating_Systems/)     |
 | Scientific Areas         | Software Development/Operating Systems                                               |
 | Languages Used           | C, Shell Script (Bash, Fish)                                                         |
+| Key Concepts             | Processes, Memory Management, Linux, Shell Scrips                                    |
 
 ### Low Level HW Digital Systems I
 
@@ -84,10 +70,11 @@ Aa simple RISC-V processor using Verilog
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Project Files            | [**Low Level HW Digital Systems I**](./Low_Level_HW_1/)     |
 | Scientific Areas         | Computer Engineering/HDL Development                                                 |
 | HDL Language             | Verilog                                                                              |
 | Software Used            | Intel Quartus/Questa                                                                 |
+| Key Concepts             | HDL, RISC-V, ALU, Datapaths                                                          |
 
 ### Low Level HW Digital Systems II
 
@@ -95,10 +82,11 @@ An IEEE 754 floating point multiplier using System Verilog and performing basic 
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Project Files            | [**Low Level HW Digital Systems II**](./Low_Level_HW_2/)     |
 | Scientific Areas         | Computer Engineering/HDL Development                                                 |
 | HDL Language             | System Verilog                                                                       |
 | Software Used            | Intel Quartus/Questa                                                                 |
+| Key Concepts             | SVA, Verification, Floating Point Multiplication                                     |
 
 ### Microprocessors and Peripherals
 
@@ -106,9 +94,12 @@ Various ARM Assembly and C assignments on a Nucleo F411RE board.
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Project Files            | [**Microprocessors and Peripherals**](./Microprocessors_And_Peripherals/)     |
 | Scientific Areas         | Embedded Development                                                                 |
 | Programming Language     | ARM Assembly, C                                                                      |
+| Hardware Used            | Nucleo F411RE, LEDs, Buttons, DHT11 Sensor                                           |
+| Software Used            | Keil uVision                                                                         |
+| Key Concepts             | Interrupts, Timers, Interfaces, Drivers                                              |
 
 ### Real-Time Embedded Systems
 
@@ -116,13 +107,13 @@ A lightweight real-time stock price tracking and processing program
 
 |   Project Information    |                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------|
-| Project Files            | [**Structured Programming**](https://github.com/Selivanof/StructuredProgramming)     |
+| Project Files            | [**Real-Time Embedded Systems**](./RealTime_Embedded_Systems/)     |
 | Scientific Areas         | Software Development / Embedded Development                                          |
 | Programming Language     | C                                                                                    |
+| Key Concepts             | Real-Time Data, Threads, Websockets, Cross Compiling                                 |
 
 
 ## Year 5 (2024-2025)
 
 Hello from the future
-
 
